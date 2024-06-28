@@ -1,2 +1,2 @@
 IP    | TGL/BLN/THN  |  NAMA
-206.189.131.13|2028-07-27|Vinzz Panel
+206.189.131.13|27-07-2024|Vinzz Panel
