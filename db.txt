@@ -1,2 +1,2 @@
 IP    | TGL/BLN/THN  |  NAMA
-139.59.20.86|27-07-2024|Vinzz Panel
+49.12.97.245|27-07-2024|Demo Panel
